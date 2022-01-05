@@ -1,0 +1,12 @@
+wireframe
+https://wireframe.cc/zAEChH
+
+quando o container pai vira um flex-container
+os elementos que estão nele, por padrão, ficam
+um ao lado outro. Para mudar esse padrão
+usamos a propriedade flex-direction
+ela inicia com o valor row
+mudar para column - deixa os filhos um abaixo do outro
+classe container2 irá controlar o alinhamento dos cards - deixando-os um ao lado do outro
+vamos usar a classe container que controla a largura e altura e adicionar a nova classe container2
+ele tb usa a classe de cor de fundo
